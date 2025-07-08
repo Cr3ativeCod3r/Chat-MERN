@@ -1,3 +1,5 @@
+<img width="918" height="519" alt="Image" src="https://github.com/user-attachments/assets/a21bc0ce-ab9b-4cff-afb8-74ea9d1ecf47" />
+
 # 🛡️ Fullstack App – Next.js + Express Auth System
 
 System autoryzacji zbudowany w oparciu o **Express.js**, **JWT**, **MongoDB**, oraz frontend w **Next.js** z obsługą sesji, socketów i zarządzaniem stanem przy użyciu **MobX**.
